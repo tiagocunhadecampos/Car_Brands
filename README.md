@@ -213,27 +213,6 @@ The app uses **Styled Components** for styling with the following structure:
 - **User-Friendly Messages**: Clear error messages for users
 - **API Error Management**: Proper HTTP error handling
 
-## 🧪 Testing
-
-```bash
-# Run tests
-npm test
-
-# Run tests in watch mode
-npm run test:watch
-```
-
-## 📦 Building for Production
-
-```bash
-# Build for production
-expo build:android
-expo build:ios
-
-# Or using EAS Build
-eas build --platform android
-eas build --platform ios
-```
 
 ## 📄 License
 
