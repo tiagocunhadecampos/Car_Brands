@@ -1,5 +1,9 @@
 # Car Brands App 🚗
 
+<div align="center">
+  <img src="assets/icon.png" alt="Car Brands Icon" width="100" height="100">
+</div>
+
 ## Overview
 
 The Car Brands App is a modern mobile application built with Expo and TypeScript that allows users to explore car brands and their respective models. The app features a clean, responsive design with user authentication and efficient data management.
